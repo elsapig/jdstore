@@ -1,0 +1,3 @@
+moduel Fog
+  # :D
+end
